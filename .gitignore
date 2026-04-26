@@ -1,0 +1,17 @@
+﻿# Python bytecode
+**/__pycache__/
+*.pyc
+
+# Virtual Environments
+**/venv/
+**/.env
+
+# Frontend dependencies
+**/node_modules/
+**/dist/
+
+# Project specific subfolders to ignore (if they contain venv)
+Airline_Management 4/venv/
+
+__MACOSX/
+.DS_Store
