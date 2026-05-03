@@ -1,4 +1,4 @@
-**✈️ Airline Management System (AMS)**
+# **✈️ Airline Management System (AMS)**
 
 A full-stack database-driven application designed to manage airline operations efficiently using modern web technologies and relational database principles.
 
